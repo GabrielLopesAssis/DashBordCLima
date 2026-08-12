@@ -1,0 +1,36 @@
+{
+  "cidade": "Veranópolis",
+  "hoje": {
+    "dia": "Sexta",
+    "temperatura": "20°C",
+    "clima": "Chuva leve",
+    "umidade": "82%",
+    "icone": "chuva.jpg"
+  },
+  "previsao": [
+    {
+      "dia": "Sábado",
+      "temperatura": "22°C",
+      "clima": "Céu limpo",
+      "icone": "sol.png"
+    },
+    {
+      "dia": "Domingo",
+      "temperatura": "25°C",
+      "clima": "Parcialmente nublado",
+      "icone": "nublado.jpg"
+    },
+    {
+      "dia": "Segunda",
+      "temperatura": "19°C",
+      "clima": "Nublado",
+      "icone": "nublado.jpg"
+    },
+    {
+      "dia": "Terça",
+      "temperatura": "17°C",
+      "clima": "Chuva moderada",
+      "icone": "chuva.jpg"
+    }
+  ]
+}
